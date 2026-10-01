@@ -1,0 +1,22 @@
+## Build output
+[Bb]in/
+[Oo]bj/
+[Dd]ebug/
+[Rr]elease/
+*.user
+*.suo
+.vs/
+.vscode/
+
+## Rider / VS
+_ReSharper*/
+*.DotSettings.user
+
+## NuGet
+packages/
+*.nupkg
+
+## OS cruft
+Thumbs.db
+.DS_Store
+desktop.ini
